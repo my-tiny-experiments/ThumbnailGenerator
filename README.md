@@ -1,6 +1,13 @@
 
 
 # Thumbnail Generator
+this library is for generating thumbnail from different sources.
+Iit is not an actual generator as much as it is a generator manager or wrapper.
+
+> note that this should be an npm package, so the installation isntructions would be npm install hassanalisalem/ThumbnailGenerator
+> but I will not add it to npm now, I need to add tests and rearrange folder structure.
+> Knowing that all instructions here I supposed it is an npm package as in import Generatorm from 'ThumbnailGenerator'
+> but instead you should put the full path to the ThumbnailGenerator library.
 
 First the Handle class
 Handle class is the main entry point for all generation operations
@@ -25,8 +32,6 @@ Handle class is the main entry point for all generation operations
 
 
 ![enter image description here](https://s3-eu-west-1.amazonaws.com/staging-wamda/diagram.png)
-this library is for generating thumbnail from different sources.
-Iit is not an actual generator as much as it is a generator manager or wrapper.
 
 
 # usage
